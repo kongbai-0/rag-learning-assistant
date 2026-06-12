@@ -1,0 +1,18 @@
+# RAG 知识库问答系统 - 依赖安装
+# 安装: pip install -r requirements.txt
+
+# Web UI
+gradio>=6.0
+
+# LLM & Embedding (阿里云 DashScope)
+dashscope>=1.20
+
+# 向量数据库
+chromadb>=1.5
+
+# PDF 解析
+pypdf>=6.0
+
+# 工具库
+python-dotenv>=1.0
+tenacity>=9.0

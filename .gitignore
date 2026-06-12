@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.claude/
+.gitignore.local
+rag-learning-assistant/
+.env
+database/
+.superpowers/
+*.zip
+storage/course_memory.json
+storage/data/
